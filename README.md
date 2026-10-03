@@ -47,6 +47,8 @@ If your company uses or benefits from this work and wants to support continued d
 
 ## Follow the work
 
+Connect with me on [LinkedIn](https://www.linkedin.com/in/muhammad-haseeb-pk).
+
 The best way to help right now is simple:
 
 - ⭐ star projects you find useful
