@@ -1,63 +1,97 @@
+<div align="center">
+
 # Muhammad Haseeb
 
-I build practical open-source tools that connect **AI with real computers, browsers, developer workflows, WordPress and ecommerce systems**.
+**Building useful software for AI, Linux desktops, developer workflows and ecommerce.**
 
-Most of my projects start the same way: a repetitive workflow bothers me, existing tools feel too limited or too expensive, so I build the missing layer.
+I turn repetitive work into practical tools — from local-first AI and browser automation to WordPress, WooCommerce and desktop applications.
 
-## Flagship projects
+**[Advertpreneur](https://advertpreneur.com)** · **[LinkedIn](https://www.linkedin.com/in/muhammad-haseeb-pk)** · **[All repositories](https://github.com/haseebgb92?tab=repositories)**
 
-### [Fatir](https://github.com/haseebgb92/Fatir)
-A local-first AI desktop assistant for Linux with desktop control, Chrome automation, Ollama routing, memory, schedules and verified execution.
-
-### [ChatGPT MCP Bridge](https://github.com/haseebgb92/ChatGPT-MCp)
-Connect ChatGPT securely to selected local files, terminal tools and your existing Chrome session through OpenAI Secure MCP Tunnel.
-
-### [WP Lab](https://github.com/haseebgb92/WP-Lab)
-Disposable local WordPress and WooCommerce development environments for Linux with Docker sandboxes, PHP switching, Mailpit, logs and client previews.
-
-### [Advertpreneur Connect](https://github.com/haseebgb92/advertpreneur-connect)
-A controlled AI-to-WordPress bridge for content, SEO, media and WooCommerce with MCP/Actions, site-aware checks and quality-gated publishing.
-
-### [Image Commerce](https://github.com/haseebgb92/image-commerce)
-An AI skill for planning and producing realistic ecommerce imagery for Amazon, Etsy, Shopify, KDP and A+ Content.
-
-### [Codex Unchained](https://github.com/haseebgb92/codex-unchained)
-Keeps the official OpenAI Codex CLI workflow while allowing alternative inference backends.
-
-## What I care about
-
-- local-first AI where it makes sense
-- useful automation instead of automation theater
-- reducing repetitive developer and business work
-- keeping humans in control of consequential actions
-- tools that are understandable, installable and practical
-
-## Open-source support
-
-These projects are maintained independently. Support helps cover:
-
-- hosting and cloud infrastructure
-- model/API usage
-- test hardware
-- CI/build infrastructure
-- security maintenance
-- time spent improving documentation, releases and compatibility
-
-If your company uses or benefits from this work and wants to support continued development, sponsor infrastructure, or collaborate on an open-source project, reach out through **[Advertpreneur](https://advertpreneur.com)**.
-
-## Follow the work
-
-Connect with me on [LinkedIn](https://www.linkedin.com/in/muhammad-haseeb-pk).
-
-The best way to help right now is simple:
-
-- ⭐ star projects you find useful
-- 🐛 report reproducible issues
-- 💡 join project discussions and suggest real workflows
-- 🔧 contribute fixes, docs or integrations
-- 📣 share a project with someone who would actually use it
+</div>
 
 ---
 
-**Advertpreneur** · Commerce. Growth. Technology.  
-https://advertpreneur.com
+## Start with these projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [AURA Download Manager](https://github.com/haseebgb92/AURA-Download-Manager)
+
+<a href="https://haseebgb92.github.io/AURA-Download-Manager/"><img src="https://raw.githubusercontent.com/haseebgb92/AURA-Download-Manager/main/docs/assets/desktop-linux.png" alt="AURA Download Manager desktop dashboard" width="100%"></a>
+
+A download manager for **Linux and Windows**, with aria2 acceleration, automatic Chrome/Firefox handoff, and control over when images stay in the browser.
+
+[Product site](https://haseebgb92.github.io/AURA-Download-Manager/) · [Latest release](https://github.com/haseebgb92/AURA-Download-Manager/releases/latest)
+
+</td>
+<td width="50%" valign="top">
+
+### [ChatGPT MCP Bridge](https://github.com/haseebgb92/ChatGPT-MCp)
+
+<a href="https://haseebgb92.github.io/ChatGPT-MCp/"><img src="https://raw.githubusercontent.com/haseebgb92/ChatGPT-MCp/main/docs/images/mcp-bridge-dashboard-v0.2.png" alt="ChatGPT MCP Bridge desktop dashboard" width="100%"></a>
+
+A local-first bridge between ChatGPT and **approved files, terminal commands and your existing browser session** through secure MCP connections.
+
+[Product site](https://haseebgb92.github.io/ChatGPT-MCp/) · [Latest release](https://github.com/haseebgb92/ChatGPT-MCp/releases/latest)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Fatir — Linux AI Assistant](https://github.com/haseebgb92/Fatir)
+
+<a href="https://haseebgb92.github.io/Fatir/"><img src="https://raw.githubusercontent.com/haseebgb92/Fatir/main/docs/images/fatir-sidebar.png" alt="Fatir Linux AI assistant sidebar" width="100%"></a>
+
+A **resident AI desktop assistant** for Linux Mint, combining local model routing, desktop control, Chrome automation and verified execution.
+
+[Product site](https://haseebgb92.github.io/Fatir/) · [Latest release](https://github.com/haseebgb92/Fatir/releases/latest)
+
+</td>
+<td width="50%" valign="top">
+
+### [WP Lab — WordPress Sandboxes](https://github.com/haseebgb92/WP-Lab)
+
+<a href="https://haseebgb92.github.io/WP-Lab/"><img src="https://raw.githubusercontent.com/haseebgb92/WP-Lab/main/docs/images/wp-lab-dashboard.png" alt="WP Lab local WordPress development dashboard" width="100%"></a>
+
+Run disposable **WordPress and WooCommerce environments** with Docker, PHP switching, email testing, logs and client previews.
+
+[Product site](https://haseebgb92.github.io/WP-Lab/) · [Latest release](https://github.com/haseebgb92/WP-Lab/releases/latest)
+
+</td>
+</tr>
+</table>
+
+## AI tools for business workflows
+
+| Project | What it solves |
+| --- | --- |
+| **[Advertpreneur Connect](https://github.com/haseebgb92/advertpreneur-connect)** | A controlled AI-to-WordPress and WooCommerce bridge for content, media, SEO and quality-gated publishing. [Web app](https://advertpreneur-connect.vercel.app) |
+| **[Image Commerce](https://github.com/haseebgb92/image-commerce)** | An AI workflow for realistic ecommerce product imagery and marketplace-oriented image planning for Amazon, Etsy, Shopify and more. |
+| **[Codex Unchained](https://github.com/haseebgb92/codex-unchained)** | A Rust project that preserves the official Codex CLI workflow while enabling alternative inference backends. |
+
+## Projects in active development
+
+| Project | Direction |
+| --- | --- |
+| **[Tyrion — The Hand](https://github.com/haseebgb92/Tyrion-The-Hand)** | Local-first operations command center for tasks, approvals, schedules, MCP integrations and companion devices. *In development.* |
+| **[Meta Manager](https://github.com/haseebgb92/meta-manager)** | Desktop social publishing and scheduling for Facebook, Instagram and LinkedIn, with a content calendar and local automation. [Latest public release](https://github.com/haseebgb92/meta-manager/releases/tag/v0.1.11) |
+
+## The problems I like solving
+
+**Local-first AI** · **Desktop automation** · **MCP integrations** · **Browser workflows** · **Linux tools** · **WordPress / WooCommerce** · **Ecommerce productivity**
+
+I work at the intersection of product development, practical automation and commerce technology through **[Advertpreneur](https://advertpreneur.com)**.
+
+### Explore, contribute or collaborate
+
+Try a release, open a reproducible issue, share a practical use case, or contribute a fix. Please review each repository's license and contribution guidance before reusing code: public source does not always mean an open-source license.
+
+For development partnerships, integrations or technical collaboration, reach out through **[Advertpreneur](https://advertpreneur.com)** or **[LinkedIn](https://www.linkedin.com/in/muhammad-haseeb-pk)**.
+
+---
+
+<div align="center"><sub>Advertpreneur · Commerce. Growth. Technology.</sub></div>
