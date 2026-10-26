@@ -42,13 +42,13 @@ A local-first bridge between ChatGPT and **approved files, terminal commands and
 <tr>
 <td width="50%" valign="top">
 
-### [Fatir — Linux AI Assistant](https://github.com/haseebgb92/Fatir)
+### [GSC Maestro — Search Intelligence](https://github.com/haseebgb92/GSC-Maestro)
 
-<a href="https://haseebgb92.github.io/Fatir/"><img src="https://raw.githubusercontent.com/haseebgb92/Fatir/main/docs/images/fatir-sidebar.png" alt="Fatir Linux AI assistant sidebar" width="100%"></a>
+<p align="center"><a href="https://github.com/haseebgb92/GSC-Maestro"><img src="assets/gsc-maestro-icon.png" alt="GSC Maestro search intelligence application icon" width="168" height="168"></a></p>
 
-A **resident AI desktop assistant** for Linux Mint, combining local model routing, desktop control, Chrome automation and verified execution.
+A **local-first SEO and search intelligence desktop app** for Google Search Console, Bing Webmaster and Yandex Webmaster, combining performance insights, indexing, technical audits and MCP reports.
 
-[Product site](https://haseebgb92.github.io/Fatir/) · [Latest release](https://github.com/haseebgb92/Fatir/releases/latest)
+**Linux / Tauri + React + Rust** · Repository being published
 
 </td>
 <td width="50%" valign="top">
@@ -82,7 +82,7 @@ Run disposable **WordPress and WooCommerce environments** with Docker, PHP switc
 
 ## The problems I like solving
 
-**Local-first AI** · **Desktop automation** · **MCP integrations** · **Browser workflows** · **Linux tools** · **WordPress / WooCommerce** · **Ecommerce productivity**
+**Local-first AI** · **Desktop automation** · **MCP integrations** · **Browser workflows** · **Linux tools** · **Search analytics & SEO** · **WordPress / WooCommerce** · **Ecommerce productivity**
 
 I work at the intersection of product development, practical automation and commerce technology through **[Advertpreneur](https://advertpreneur.com)**.
 
