@@ -44,11 +44,13 @@ A local-first bridge between ChatGPT and **approved files, terminal commands and
 
 ### [GSC Maestro — Search Intelligence](https://github.com/haseebgb92/GSC-Maestro)
 
-<p align="center"><a href="https://github.com/haseebgb92/GSC-Maestro"><img src="assets/gsc-maestro-icon.png" alt="GSC Maestro search intelligence application icon" width="168" height="168"></a></p>
+<a href="https://haseebgb92.github.io/GSC-Maestro/"><img src="https://raw.githubusercontent.com/haseebgb92/GSC-Maestro/main/docs/assets/gsc-maestro-dashboard.png" alt="GSC Maestro desktop dashboard — actual interface with illustrative sample data" width="100%"></a>
 
 A **local-first SEO and search intelligence desktop app** for Google Search Console, Bing Webmaster and Yandex Webmaster, combining performance insights, indexing, technical audits and MCP reports.
 
-**Linux / Tauri + React + Rust** · Repository being published
+[Product website](https://haseebgb92.github.io/GSC-Maestro/) · [Source and setup](https://github.com/haseebgb92/GSC-Maestro) · **Linux / Tauri + React + Rust**
+
+<sub>Dashboard shown with the application's built-in illustrative sample data.</sub>
 
 </td>
 <td width="50%" valign="top">
